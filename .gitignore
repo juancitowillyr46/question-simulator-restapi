@@ -1,0 +1,9 @@
+/vendor
+/.idea
+/composer.lock
+/.vscode
+/.env
+/logs
+environments
+environments/env.php
+environments/env.prod.php
